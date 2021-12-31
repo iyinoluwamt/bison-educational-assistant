@@ -1,0 +1,155 @@
+ {"intents": [
+        {"tag": "",
+         "patterns": [],
+         "responses": []
+        },
+        {"tag": "greeting",
+         "patterns": [
+           "Hi",
+           "How are you",
+           "Is anyone there?",
+           "Hello",
+           "Good day",
+           "Hey",
+           "yo"],
+         "responses": [
+           "Hello, thanks for visiting",
+           "Good to see you again",
+           "Hi there, how can I help?",
+           "Hey there! How can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": [
+           "Bye",
+           "See you later",
+           "Goodbye"],
+         "responses": [
+           "See you later, thanks for visiting",
+           "Have a nice day",
+           "Bye! Come back again soon."]
+        },
+        {"tag": "thanks",
+         "patterns": [
+           "Thanks",
+           "Thank you",
+           "That's helpful"],
+         "responses": [
+           "Happy to help!",
+           "Any time!",
+           "My pleasure"]
+        },
+        {"tag": "register",
+         "patterns": [
+           "How can I register?",
+           "How do I register for class?",
+           "How do I add a class to my schedule?",
+           "Where can I add a class?",
+           "I want to register for a class",
+           "I'm trying to register",
+           "I want to take a class",
+           "Get me in a class",
+           "How do I get this class",
+           "How do I get into this class",
+           "I need to get in a class for spring semester",
+           "I need to plan my fall schedule"
+         ],
+         "responses": ["You can register for your classes on BisonWeb at the end of October and March after meeting with your advisor and receiving an alternate PIN",
+           "Reach out to your advisor for your alternate PIN when registration is open",
+           "You can use BisonWeb to plan your next class schedule and speak with your advisor to finalize and register",
+           "Registration procedures are not uniform across all schools, but generally to register you must contact your advisor for your alternate PIN"
+         ]
+        },
+        {"tag": "covid-testing",
+         "patterns": [
+           "How often do I need to get tested?",
+           "i need to get tested",
+           "i need a  covid test",
+           "when do i get covid tested",
+           "do i need a covid test this week",
+           "where can i get tested?",
+           "where do i get my covid test",
+           "where should i get tested"],
+         "responses": [
+            "Each student should receive an email detailing their date and location for their weekly covid test. If not, testing centers can be found in the Blackburn Center and the Louis Stokes Health Science Library (M-F 10AM-4PM).",
+            "In accordance with local guidelines, students must receive mandatory weekly COVID-19 testing at campus testing centers, which can be found at Blackburn Center and the Louis Stokes Health Science Library (M-F 10AM-4PM).",
+           "Each student must comply with Howard University's mandatory COVID-19 testing policy and receive a weekly nasal swab test at the Blackburn Center and the Louis Stokes Health Science Library (M-F 10AM-4PM)"
+         ]
+        },
+        {"tag": "hi-bea",
+         "patterns": [
+           "how you doing bea?",
+           "whats up bea",
+           "hey bea",
+           "hi bea",
+           "nice to talk to you bea"],
+         "responses": [
+           "How are you doing today?",
+           "Hey :) whats up?",
+           "How can I help you today?",
+           "What's on your mind?"
+         ]
+        },
+        {
+          "tag": "trivia",
+          "patterns": [
+            "do you know any fun facts",
+            "whats a fun fact about howard",
+            "do you have any trivia",
+            "do you know any random trivia"
+          ],
+          "responses": [
+            "Howard University is the top provider of black undergraduates who go on to later earn Doctoral degrees in Science and Engineering!",
+            "Howard has grown from a single-frame building in 1867 and evolved to more than 89 acres, including the six-story, 400-bed Howard University Hospital!",
+            "Since 1867, Howard has awarded more than 100,000 degrees in the professions, arts, sciences and humanities.",
+            "Howard ranks among the highest producers of the nation's Black professionals in medicine, dentistry, pharmacy, engineering, nursing, architecture, religion, law, music, social work and education.",
+            "The Howard School of Business is ranked among the Top 10 MBA Programs in the country!",
+            "Howard's illustrious alumni community includes people such Chadwick Boseman, Kwame Ture, Toni Morrison, and more!"
+          ]
+        },
+        {"tag": "",
+         "patterns": [],
+         "responses": []
+        },
+        {"tag": "",
+         "patterns": [],
+         "responses": []
+        },
+        {"tag": "",
+         "patterns": [],
+         "responses": []
+        },
+        {"tag": "",
+         "patterns": [],
+         "responses": []
+        },
+        {"tag": "",
+         "patterns": [],
+         "responses": []
+        },
+        {"tag": "",
+         "patterns": [],
+         "responses": []
+        },
+        {"tag": "",
+         "patterns": [],
+         "responses": []
+        },
+        {"tag": "",
+         "patterns": [],
+         "responses": []
+        },
+        {"tag": "",
+         "patterns": [],
+         "responses": []
+        },
+        {"tag": "",
+         "patterns": [],
+         "responses": []
+        },
+        {"tag": "",
+         "patterns": [],
+         "responses": []
+        }
+ ]
+}

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/ileritugbobo/PycharmProjects/BEA/bison-educational-assitant/src/services/../utils/chatbot/model/model.tflearn"
+all_model_checkpoint_paths: "/Users/ileritugbobo/PycharmProjects/BEA/bison-educational-assitant/src/services/../utils/chatbot/model/model.tflearn"
